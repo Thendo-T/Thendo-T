@@ -4,13 +4,17 @@ Everyone has their own perspective and ideology on technology ,mine being that t
 I am humbled to be a part of this very universe and I look forward to seeing it evolve
 
 
-Skills: C# / NEXTJS / JS / HTML / CSS
+Skills: 
+- C# 
+- NEXTJS
+- JS 
+- HTML 
+- CSS
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thendo-T&show_icons=true)  
 
 - 🔭 I’m currently working on A JS/NextJs project 
-- 📫 How to reach me: thendothovhakale0002@gmail.com 
-
+- 📫 How to reach me: thendothovhakale0002@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thendo-T)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thendo-thovhakale-18ba57205//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://Aboutthendo.netlify.app)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thendo-T&show_icons=true)  
 
