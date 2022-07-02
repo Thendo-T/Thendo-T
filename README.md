@@ -5,11 +5,11 @@ I am humbled to be a part of this very universe and I look forward to seeing it 
 
 
 Skills: 
-- :c# C# 
-- :react: NEXTJS
-- :javascript: JS 
-- :html: HTML 
-- :css: CSS
+- C# 
+- NEXTJS
+- JS 
+- HTML 
+- CSS
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thendo-T&show_icons=true)  
 
