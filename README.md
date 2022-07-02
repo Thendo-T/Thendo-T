@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Thendo
+## Hi there 👋, My name is Thendo
 ### I am mostly a front-end developer, currently branching over to back-end
 Everyone has their own perspective and ideology on technology ,mine being that technology equates to a Universe, and everyone's contribution to this universe either creates personal planets,meteorites(gone with the old in with the new), solar systems (necessary softwares and projects such as coding tools or laptop) and the internet being a hub to connect all these vast creation from one planet(project) to another. 
 I am humbled to be a part of this very universe and I look forward to seeing it evolve
