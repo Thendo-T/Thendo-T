@@ -1,19 +1,40 @@
-## Hi there 👋, My name is Thendo
-### I am mostly a front-end developer, currently branching over to back-end
-Everyone has their own perspective and ideology on technology ,mine being that technology equates to a Universe, and everyones' contribution to this universe either creates personal planets,meteorites(gone with the old in with the new), solar systems (necessary softwares and projects such as coding tools or laptop) and the internet being a hub to connect all these vast creation from one planet(project) to another. 
-I am humbled to be a part of this very universe and I look forward to seeing it evolve.
+## 👋 Hi, I'm Thendo Thovhakale
 
+### 🌍 Front-End Developer | Aspiring Back-End Engineer
 
-Skills: 
-- C# 
-- NEXTJS
-- JS 
-- HTML 
-- CSS
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thendo-T&show_icons=true)  
+I believe technology is its own **Universe**—an ever-expanding space where each contribution is like a celestial body:
+- **Planets**: Personal projects and innovations  
+- **Meteorites**: Outdated practices paving way for the new  
+- **Solar Systems**: Essential tools and frameworks  
+- **The Internet**: The gravitational hub connecting it all
 
-- 📫 How to reach me: thendothovhakale0002@gmail.com
+As a developer, I’m humbled and proud to be part of this vast digital universe, continuously learning, creating, and contributing.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thendo-T)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thendo-thovhakale-18ba57205//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://Aboutthendo.netlify.app)  
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages**: JavaScript, C#, HTML, CSS  
+- **Frameworks & Tools**: Next.js, React, Git, REST APIs  
+- **Other Interests**: UI/UX, Backend Architecture, Agile Practices
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thendo-T&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [thendothovhakale0002@gmail.com](mailto:thendothovhakale0002@gmail.com)  
+- 🌐 Portfolio: [AboutThendo.netlify.app](https://aboutthendo.netlify.app)
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="30">](https://github.com/Thendo-T)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/thendo-thovhakale-18ba57205/)
+
+---
+
+> “Code is not just logic—it's an expression, a reflection of how we see and build our place in the digital universe.”
 
